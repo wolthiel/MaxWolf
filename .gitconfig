@@ -1,0 +1,5 @@
+[core]
+	editor = \"D:\\Program Files\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	name = FIRST_NAME LAST_NAME
+	email = MY_NAME@example.com
